@@ -1,0 +1,8 @@
+h1, h2, th, td {
+	font-family: 'Bungee', cursive;
+}
+
+thead {
+	background-color: black;
+	color: white;
+}
